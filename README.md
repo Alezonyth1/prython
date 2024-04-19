@@ -1,2 +1,1 @@
 # prython
-pypi
